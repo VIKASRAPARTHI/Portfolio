@@ -106,7 +106,7 @@ const Footer = () => {
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Raparthi Vikas. All rights reserved.</Copyright>
+        <Copyright>&copy; 2025 Raparthi Vikas. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
